@@ -1,4 +1,4 @@
-# My Personal Website
+# Personal Website - Source Code
 
 This page was created using an R package developed by [@seankross](github.com/seankross).
 
