@@ -1,5 +1,5 @@
 # Personal Landing Page
-A simple landing page based on an R package developed by [@seankross](github.com/seankross).
+A simple landing page based on an R package developed by [Sean Kross](https://seankross.com/).
 
 ## Setup
 Follow setup instructions at [@seankross/postcards](github.com/seankross/postcards).
