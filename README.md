@@ -8,7 +8,7 @@ Follow setup instructions at [@seankross/postcards](github.com/seankross/postcar
 
 *These steps are only for my reference*
 
-1. Visit https://rstudio.cloud/project/2309158.
+1. Visit https://posit.cloud/content/2309158.
 2. Navigate to `ponugoti_dev` project workspace.
 3. Make changes to `Index.Rmd`.
 4. Rebuild `index.html` using `rmarkdown::render("index.Rmd")`.
